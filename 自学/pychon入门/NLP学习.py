@@ -176,4 +176,3 @@ if __name__ == '__main__':
     # 查
     assert trie['入门'] == 'introduction'
     pass
-pass
