@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>images/默认图片外框.png</file>
+  </qresource>
+</RCC>
